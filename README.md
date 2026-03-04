@@ -1,2 +1,23 @@
-# Generic-data-structures
-C++ Generic Data Structures Implementation  Lab 2 project demonstrating abstract classes, pure virtual functions, templates, and dynamic memory allocation. Includes a generic List class and a Matrix2D class extended with prime sum, determinant (2×2 &amp; 3×3), and spectral norm. Features a menu-driven program using OOP and polymorphism.
+**C++ Generic Data Structures Implementation**
+
+This repository contains Lab 2 implementation for Data Structures and Algorithms.
+
+Topics Covered:
+- Abstract Classes
+- Pure Virtual Functions
+- Templates (Generics)
+- Dynamic Memory Allocation
+- 2D Dynamic Arrays
+- Inheritance & Polymorphism
+
+Tasks Included:
+1. Generic Abstract List Class
+2. Matrix2D (Dynamic 2D Array Implementation)
+3. AdvancedMatrix with:
+   - Prime Sum Calculation
+   - Determinant (2x2 and 3x3)
+   - Spectral Norm
+4. Menu-Based Program Implementation
+
+Language: C++
+Concepts: OOP, Templates, Memory Management
